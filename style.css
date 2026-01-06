@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.primary-color{
+border: 1px solid #5e3bee;
+color: #5e3bee;
+};
+.bg-color{
+    background-color: #FFFFFF;
+}
+/* nav{
+    border: 3px solid #5e3bee;
+} */
